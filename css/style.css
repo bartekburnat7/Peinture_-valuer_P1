@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600&display=swap');
+
 *{
     padding: 0;
     margin: 0;
+    font-family: 'Plus Jakarta Sans', sans-serif;
 }
 
 nav{
@@ -13,15 +16,18 @@ nav ul{
     list-style: none;
     display: flex;
     justify-content: space-between;
+    line-height: 60px;
 }
 
 #logo_title{
     margin-left: 30px;
+    font-size: x-large;
 }
 
 #menu{
     margin-right: 30px;
-    width: 220px;
+    width: 300px;
     display: inline-flex;
     justify-content: space-between;
+    font-size: larger;
 }
