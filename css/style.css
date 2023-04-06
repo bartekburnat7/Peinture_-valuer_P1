@@ -46,10 +46,11 @@ nav ul{
 #main_hero_title_area{
     width: 400px;
     height: 450px;
+    text-align: center;
     background-color: rgb(247, 247, 247);
     position: relative;
     top: 50px;
-    left: 100px;
+    left: 150px;
     border-radius: 20px;
     box-shadow: 20px 20px 6px rgba(0, 0, 0, 0.2);
 }
@@ -57,4 +58,16 @@ nav ul{
 #main_hero_title_area h1{
     padding: 40px;
     font-size: 40px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+#main_hero_title_area a{
+    text-decoration: none;
+    border: transparent;
+    background-color:#ff8800;
+    color: rgb(247, 247, 247);
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 10px;
 }
