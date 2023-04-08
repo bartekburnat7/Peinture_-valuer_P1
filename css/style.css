@@ -90,13 +90,26 @@ nav ul{
     top: 50px;
     max-width: 1400px;
     height: 700px;
-    background-color: white;
     border-radius: 25px;
     overflow: hidden;
+    background:url(/images//robert-duncanson-84959.jpg) -200px no-repeat;
+    background-size: cover;
 }
 
 #about_us_information_section{
     max-width: 1000px;
-    height: inherit;
-    background-color: #ff8800;
+    margin-left: auto;
+    height: 100%;
+    background-color: #ffffff;
+    font-size: x-large;
+}
+
+#about_us_information_section h2{
+    padding: 30px;
+}
+
+#about_us_information_section li{
+    margin:0 30px 0 30px;
+    list-style-type: none;
+    border-top: 2px solid #ff8800;
 }
