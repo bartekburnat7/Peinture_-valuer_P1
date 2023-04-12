@@ -101,7 +101,7 @@ nav ul{
 }
 
 #about_us_information_section{
-    max-width: 1000px;
+    max-width: 1100px;
     margin-left: auto;
     background-color: #ffffff;
     border-radius: 25px;
@@ -136,13 +136,40 @@ nav ul{
 }
 
 #main_form{
+    width: 600px;
     padding: auto;
     margin: auto;
     font-size: 32px;
 }
 
 #main_form input,select{
+    border:transparent;
+    border-bottom: 2px solid #ff8800;
     width: 100%;
     font-size: 22px;
     margin-bottom: 10px;
+}
+
+#main_form input:focus{
+    outline: transparent;
+    box-shadow: 0 5px 20px #ff880027;
+    z-index: -1;
+}
+
+#submit_button{
+    width: 100%;
+    margin-top: 20px;
+    border: transparent;
+    color: #ffffff;
+    height: 40px;
+    background-color: #ff8800;
+    border-radius: 20px;
+}
+
+/*      FOOTER      */
+
+footer{
+    height: 500px;
+    background: rgb(245,245,245);
+    background: linear-gradient(175deg, rgba(245,245,245,1) 60%, rgba(255, 136, 0, 0.2) 100%);
 }
