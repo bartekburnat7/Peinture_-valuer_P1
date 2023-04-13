@@ -129,7 +129,7 @@ nav ul{
 
 #contact_form_section{
     max-width: 1500px;
-    height: 600px;
+    height: 1000px;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -137,7 +137,6 @@ nav ul{
 
 #main_form{
     width: 600px;
-    padding: auto;
     margin: auto;
     font-size: 32px;
 }
@@ -170,6 +169,26 @@ nav ul{
 
 footer{
     height: 500px;
+    color: #ff8800;
     background: rgb(245,245,245);
     background: linear-gradient(175deg, rgba(245,245,245,1) 60%, rgba(255, 136, 0, 0.2) 100%);
 }
+
+footer div{
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+    top: 125px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+footer h2{
+    grid-row: 1;
+    margin-bottom: 30px;
+}
+
+footer a{
+    color: #ff8800;
+}
+
