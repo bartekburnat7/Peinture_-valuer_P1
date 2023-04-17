@@ -179,13 +179,18 @@ footer{
     background: linear-gradient(175deg, rgba(245,245,245,1) 60%, rgba(255, 136, 0, 0.2) 100%);
 }
 
+footer ul{
+    list-style-position: inside;
+}
+
 footer div{
     max-width: 800px;
+    padding: 0 50px 0 50px;
     margin: auto;
     position: relative;
     top: 125px;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 50% 50%;
 }
 
 footer h2{
@@ -197,3 +202,15 @@ footer a{
     color: #ff8800;
 }
 
+/*      TABELT SIZE     */
+
+@media screen and (max-width: 900px){
+    
+    #main_hero_title_area{
+        left: 50px;
+    }
+
+    #about_us{
+        background: none;
+    }
+}
