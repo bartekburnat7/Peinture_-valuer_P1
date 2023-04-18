@@ -142,6 +142,7 @@ nav a{
 
 #main_form{
     width: 600px;
+    padding: 20px;
     margin: auto;
     font-size: 32px;
 }
