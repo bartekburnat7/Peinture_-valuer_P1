@@ -231,7 +231,6 @@ li>h2{
 /*      FOOTER      */
 
 footer{
-    height: 500px;
     color: #ff8800;
     background: rgb(245,245,245);
     background: linear-gradient(175deg, rgba(245,245,245,1) 60%, rgba(255, 136, 0, 0.2) 100%);
@@ -243,10 +242,8 @@ footer ul{
 
 footer div{
     max-width: 800px;
-    padding: 0 50px 0 50px;
+    padding: 50px;
     margin: auto;
-    position: relative;
-    top: 125px;
     display: grid;
     grid-template-columns: 50% 50%;
 }
