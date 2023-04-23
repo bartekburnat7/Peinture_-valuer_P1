@@ -125,11 +125,6 @@ nav a{
     border-top: 2px solid #ff8800;
 }
 
-#about_us_information_section h2:nth-child(3){
-    text-align: right;
-    padding: 20px 30px 0 0;
-}
-
 /*      PRICING SECTION     */
 
 #main_pricing_section{
