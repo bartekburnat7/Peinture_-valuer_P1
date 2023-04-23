@@ -130,6 +130,68 @@ nav a{
     padding: 20px 30px 0 0;
 }
 
+/*      PRICING SECTION     */
+
+#main_pricing_section{
+    display: flex;
+    justify-content: center;
+    background: rgb(255,255,255);
+    background: linear-gradient(175deg, rgb(255, 255, 255) 25%, rgba(255,136,0,0.2) 50%, rgb(255, 255, 255) 75%);
+
+}
+
+#main_pricing_section h1{
+    position: relative;
+    top: 100px;
+}
+
+#pricing_table{
+    margin: auto;
+    padding-top: 250px;
+    max-width: 900px;
+    display: grid;
+    gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    position: relative;
+    top: -80px;
+}
+
+#pricing_table ul{
+    padding: 20px 0 40px 0;
+    list-style-type: none;
+    text-align: center;
+    font-size: 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 20px;
+    border: 1px solid rgb(150, 150, 150);
+    box-shadow: 10px 10px 20px rgb(190, 190, 190);
+}
+
+#pricing_table li{
+    margin-bottom: 25px;
+}
+
+#pricing_table .price{
+    margin-top: 30px;
+    padding: 6px 15px 6px 15px;
+    font-size: 28px;
+    position: relative;
+    top: 10px;
+    text-decoration: underline;
+    background-color: #f82aff;
+    color: white;
+    border-radius: 10px;
+}
+
+li>h2{
+    line-height: 100px;
+    font-size: 46px;
+}
+
 /*      FORM SECTION        */
 
 #contact_form_section{
