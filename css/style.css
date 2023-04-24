@@ -140,6 +140,10 @@ nav a{
 #main_pricing_section h1{
     position: relative;
     top: 100px;
+    margin: 0 auto;
+    max-width: 990px;
+    padding-left: 30px;
+    font-size: 3rem;
 }
 
 #pricing_table{
@@ -167,11 +171,15 @@ nav a{
     box-shadow: 10px 10px 20px rgb(190, 190, 190);
 }
 
+#pricing_table_business{
+    background: linear-gradient(190deg, rgba(248,42,255,0.2) 0%, rgba(255,255,255,1) 25%);
+}
+
 #pricing_table li{
     margin-bottom: 25px;
 }
 
-#pricing_table .price{
+#pricing_table .booking{
     margin-top: 30px;
     padding: 6px 15px 6px 15px;
     font-size: 28px;
@@ -181,11 +189,22 @@ nav a{
     background-color: #f82aff;
     color: white;
     border-radius: 10px;
+    box-shadow: 0 10px 20px rgb(210, 210, 210);
 }
 
 li>h2{
-    line-height: 100px;
-    font-size: 46px;
+    padding-top: 20px;
+    line-height: 40px;
+    font-size: 2rem;
+}
+
+li>h3{
+    line-height: 60px;
+    font-size: 4rem;
+}
+
+#grayed_out{
+    color: #0000003d;
 }
 
 /*      FORM SECTION        */
