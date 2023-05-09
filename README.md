@@ -4,7 +4,7 @@ Peinture Évaluer is a website for older folk that are looking to evaluate their
 
 The user will be able to find out about the business's history and have the following three options of the service the company provides. There is a large contact section where you will be able to type in your personal details and select what time of item is in question and book a time to discuss the matter.
 
-space for photo
+![Alt text](/images/WebsiteForProjectamiresponsive.JPG)
 
 ## __Features__
 
