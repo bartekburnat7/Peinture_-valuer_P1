@@ -11,29 +11,29 @@ The user will be able to find out about the business's history and have the foll
 - __Navigation__
     - The nav bar at the top of the page has two sections, the title which brings you to the top of the page and the menu that links to all the sections of the page.
     - The navigation bar follows the user so that it is easy to jump to each section from any part of the website.
-    ![Am I Responsive Test](/images/nav%20bar.PNG)
+    ![Navigation Bar](/images/nav_bar.PNG)
 
 - __Heading__
     - The main hero area has a large image of a painting to signify that the webiste and company deals with artwork.
     - The container on top of the image tells the user in breif detail what the company does and also has a button that links to the contact section so that the user can quickly contact the business.
-    ![Am I Responsive Test](/images/)
+    ![Hero Image](/images/)
 
 - __About Us__
     - The about Us section talks about the business's history and where they are based at.
     - It informs the user about who runs the company.
     - At the end it mentions the key values they are praised for and how they can help you.
-    ![Am I Responsive Test](/images/About%20Us.PNG)
+    ![About Us](/images/aboutus.PNG)
 
 - __Pricing__
     - The Pricing section displays all the options of the services the company provides.
     - Each option has greyed out features that are not included in that option.
     - 
-    ![Am I Responsive Test](/images/Pricing.PNG)
+    ![Pricing](/images/pricing.PNG)
 
 - __Contact Us__
     - The contact section is where the user can comuniucate throught the website with the business to discuss the plan they would like to use .
     - The form validates if all fields are filled out or selected and checks if the right email format was used.
-    ![Am I Responsive Test](/images/contact%20us.PNG)
+    ![Contact](/images/contactus.PNG)
 
 - __Footer__
     - The footer contains quick links so that the user can navigate to any part of the website from the bottom of the page.
