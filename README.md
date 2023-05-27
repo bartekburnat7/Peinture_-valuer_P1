@@ -11,7 +11,7 @@ The user will be able to find out about the business's history and have the foll
 - __Navigation__
     - The nav bar at the top of the page has two sections, the title which brings you to the top of the page and the menu that links to all the sections of the page.
     - The navigation bar follows the user so that it is easy to jump to each section from any part of the website.
-    ![Navigation Bar](/images/nav_bar.PNG)
+    ![Navigation Bar](/images/navbar.PNG)
 
 - __Heading__
     - The main hero area has a large image of a painting to signify that the webiste and company deals with artwork.
