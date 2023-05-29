@@ -52,7 +52,7 @@ On the website the user will be able to find out about the business's history an
     - I made sure that the website is well structured, readable and easy to follow.
 
 ### __Bugs__
-- fix images not working
+- Image wasnt loading on Github Pages after deployed 
 
 ### __Validator Testing__
 - __HTML__
