@@ -54,7 +54,7 @@ nav a {
     margin: 0 auto;
     position: relative;
     top: 60px;
-    background: url(./assets/images/heroimage.JPG) center center;
+    background: url(assets/images/heroimage.JPG) center center;
     background-size: cover;
 }
 
@@ -105,7 +105,7 @@ nav a {
     margin: 0 75px 0 75px;
     border-radius: 25px;
     border: 2px solid rgb(247, 247, 247);
-    background: url(./assets/images/aboutusbackground.JPG) -250px no-repeat;
+    background: url(assets/images/aboutusbackground.JPG) -250px no-repeat;
     background-size: cover;
 }
 
