@@ -29,9 +29,9 @@ On the website the user will be able to find out about the business's history an
     ![About Us](/assets/images/aboutus.PNG)
 
 - __Pricing__
-    - The Pricing section displays all the options of the services the company provides.
-    - Each option has greyed out features that are not included in that option.
-    - 
+    - The Pricing section displays all the options that the company provides.
+    - Each option has a list of features that come with the given service and displays the greyed out features that are not included in that option, this gives a user a choice if they would rather not go for the most expensive option.
+    - The business option has a purple gradient in the background to attract clients attention and make the top option stand out.
     ![Pricing](/assets/images/pricing.JPG)
 
 - __Contact Us__
@@ -45,12 +45,11 @@ On the website the user will be able to find out about the business's history an
     - Extra contact information like phone number or direct email address are also included, as some users may prefer to get in touch directly with the company staff, instead of using the "Contact Us" section.
     ![Am I Responsive Test](/assets/images/footer.PNG)
 
-## __Testing__
-
-- I tested the website on different browsers(Chrome, safari, Internet Explorer, Microsoft edge) and phone devices(Iphone)
-- I made sure that all the links are working and are linked to the right part of the website.
-- The website is responsive on tablets and phone devices.
-- I made sure that the website is well structured, readable and easy to follow.
+- ## __Testing__
+    - I tested the website on different browsers(Chrome, safari, Internet Explorer, Microsoft edge) and phone devices(Iphone)
+    - I made sure that all the links are working and are linked to the right part of the website.
+    - The website is responsive on tablets and phone devices.
+    - I made sure that the website is well structured, readable and easy to follow.
 
 ### __Bugs__
 - fix images not working
@@ -58,9 +57,19 @@ On the website the user will be able to find out about the business's history an
 ### __Validator Testing__
 - __HTML__
     - The index.html file passed the w3c validation test with no errors
+    ![HTML Validation](/assets/images/htmlvalidation.JPG)
 - __CSS__
     - The style.css file passed the w3c CSS validation  test with no errors
+    ![CSS Validation](/assets/images/cssvalidation.JPG)
+- __Lighthouse Accessibility Score__
 
+    ![Lighthouse Score](/assets/images/lighthousetest.JPG)
+
+- ## __Deployment__
+    - The website was deployed on the Github Pages. Here are the steps I took:
+        1. Go to the Github repository of choice, then click on settings.
+        2. Click the "Pages" from the list on the left.
+        3. 
 
 ## __Credits__
 
