@@ -1,44 +1,48 @@
 # __Peinture Évaluer__
 
-Peinture Évaluer is a website for older folk that are looking to evaluate their artwork so that they get an accurate price of their collection or an item they are trying to sell.
+### __Target Audience__
+Peinture Évaluer is a website made for collectors that are looking to evaluate their artwork so that they get an accurate price of their collection or a piece of artwork they are trying to sell.
 
-The user will be able to find out about the business's history and have the following three options of the service the company provides. There is a large contact section where you will be able to type in your personal details and select what time of item is in question and book a time to discuss the matter.
+### __Approach__
+I decieded to make the website a one page layout to make it as basic and simple to use as possible, as most artwork collectors are older folk and arent as tech savy as the younger population. This also creates a fast and enjoyable UI expiernce and increases the chances of the user comming back.
 
-![Am I Responsive Test](/images/WebsiteForProjectamiresponsive.JPG)
+On the website the user will be able to find out about the business's history and have the option to choose between the three services provided in the "Pricing" section. There is a large contact section where you will be able to type in your personal details and select what time of item is in question and book a time to discuss the matter.
+
+![Am I Responsive Test](/assets/images/WebsiteForProjectamiresponsive.JPG)
 
 ## __Features__
 
 - __Navigation__
-    - The nav bar at the top of the page has two sections, the title which brings you to the top of the page and the menu that links to all the sections of the page.
-    - The navigation bar follows the user so that it is easy to jump to each section from any part of the website.
-    ![Navigation Bar](/images/navbar.PNG)
+    - The navigation bar at the top of the page has two sections, the title which brings you to the top of the page when clicked and the menu with buttons that you can jump to each section of the website.
+    - The navigation bar follows the user when they scroll so that it is easy to jump to each section from any part of the website.
+    - New users that never used the website can use the navigation bar to easily find the section of interest easily without scrolling through the page.
+    ![Navigation Bar](/assets/images/navbar.PNG)
 
 - __Heading__
-    - The main hero area has a large image of a painting to signify that the webiste and company deals with artwork.
-    - The container on top of the image tells the user in breif detail what the company does and also has a button that links to the contact section so that the user can quickly contact the business.
-    ![Hero Image](/images/)
+    - The main hero area has a large image of a painting to signify that the webiste and company does indeed specialise in artwork and can catch the eye of new users looking for this specific service.
+    - The container on top of the image tells the user what the company specialises in, the box also contains a button that links to the contact section so that new user can quickly skip to the contact section and quickly get in touch with the business rasing the chances of closing a deal with a client.
+    ![Hero Image](/assets/images/READMEheroimage.JPG)
 
 - __About Us__
-    - The about Us section talks about the business's history and where they are based at.
-    - It informs the user about who runs the company.
-    - At the end it mentions the key values they are praised for and how they can help you.
-    ![About Us](/images/aboutus.PNG)
+    - The "About Us" section explains the business's history and what country and city they are based in. It informs the user about who runs the company and what qualities the company can bring to the client, which helps new users decide on which service to use.
+    - 
+    ![About Us](/assets/images/aboutus.PNG)
 
 - __Pricing__
     - The Pricing section displays all the options of the services the company provides.
     - Each option has greyed out features that are not included in that option.
     - 
-    ![Pricing](/images/pricing.PNG)
+    ![Pricing](/assets/images/pricing.JPG)
 
 - __Contact Us__
     - The contact section is where the user can comuniucate throught the website with the business to discuss the plan they would like to use .
     - The form validates if all fields are filled out or selected and checks if the right email format was used.
-    ![Contact](/images/contactus.PNG)
+    ![Contact](/assets/images/contactus.JPG)
 
 - __Footer__
-    - The footer contains quick links so that the user can navigate to any part of the website from the bottom of the page.
-    - Extra contact information is also included incase the user would like to contact the business directly through email or the phone.
-    ![Am I Responsive Test](/images/footer.PNG)
+    - The footer contains "Quick Links" if the user decides they would like to go back to any section of the page they have passed, this makes finding any part of the website effortless and creates an enjoyable user experience. 
+    - Extra contact information like phone number or direct email address are also included, as some users may prefer to get in touch directly with the company staff, instead of using the "Contact Us" section.
+    ![Am I Responsive Test](/assets/images/footer.PNG)
 
 ## __Testing__
 
