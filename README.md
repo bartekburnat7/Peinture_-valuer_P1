@@ -6,7 +6,7 @@ Peinture Évaluer is a website made for collectors that are looking to evaluate 
 ### __Approach__
 I decieded to make the website a one page layout to make it as basic and simple to use as possible, as most artwork collectors are older folk and arent as tech savy as the younger population. This also creates a fast and enjoyable UI expiernce and increases the chances of the user comming back.
 
-On the website the user will be able to find out about the business's history and have the option to choose between the three services provided in the "Pricing" section. There is a large contact section where you will be able to type in your personal details and select what time of item is in question and book a time to discuss the matter.
+On the website the user will be able to find out about the business's history and have the option to choose between the three services provided in the "Pricing" section. There is a large contact section where you will be able to type in your personal details and select what type of item is in question and book a time to discuss the deal.
 
 ![Am I Responsive Test](/assets/images/WebsiteForProjectamiresponsive.JPG)
 
@@ -35,8 +35,9 @@ On the website the user will be able to find out about the business's history an
     ![Pricing](/assets/images/pricing.JPG)
 
 - __Contact Us__
-    - The contact section is where the user can comuniucate throught the website with the business to discuss the plan they would like to use .
-    - The form validates if all fields are filled out or selected and checks if the right email format was used.
+    - The contact section is where the user can contact the company throught the website to.
+    - The form validates if all fields are filled out or selected and checks if the right email format was used and all areas are filled in, otherwise the form will inform the user what the error is and wont send the form.
+    - Each field when selected will be highlighted, this is implemented so that users can clearly see what input area they are currently typing into and makes the process easier.
     ![Contact](/assets/images/contactus.JPG)
 
 - __Footer__
