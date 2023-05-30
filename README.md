@@ -1,5 +1,7 @@
 # __Peinture Évaluer__
 
+https://bartekburnat7.github.io/Peinture_Evaluer_P1/
+
 ### __Target Audience__
 Peinture Évaluer is a website made for collectors that are looking to evaluate their artwork so that they get an accurate price of their collection or a piece of artwork they are trying to sell.
 
@@ -25,7 +27,6 @@ On the website the user will be able to find out about the business's history an
 
 - __About Us__
     - The "About Us" section explains the business's history and what country and city they are based in. It informs the user about who runs the company and what qualities the company can bring to the client, which helps new users decide on which service to use.
-    - 
     ![About Us](/assets/images/aboutus.PNG)
 
 - __Pricing__
@@ -35,7 +36,8 @@ On the website the user will be able to find out about the business's history an
     ![Pricing](/assets/images/pricing.JPG)
 
 - __Contact Us__
-    - The contact section is where the user can contact the company throught the website to.
+    - The contact section is where the user can contact the company throught the website to book a consultation or discuss
+    what service the client should opt for.
     - The form validates if all fields are filled out or selected and checks if the right email format was used and all areas are filled in, otherwise the form will inform the user what the error is and wont send the form.
     - Each field when selected will be highlighted, this is implemented so that users can clearly see what input area they are currently typing into and makes the process easier.
     ![Contact](/assets/images/contactus.JPG)
@@ -46,13 +48,18 @@ On the website the user will be able to find out about the business's history an
     ![Am I Responsive Test](/assets/images/footer.PNG)
 
 - ## __Testing__
-    - I tested the website on different browsers(Chrome, safari, Internet Explorer, Microsoft edge) and phone devices(Iphone)
+    - I tested and made sure that hte website is compatible on different browsers(Chrome, safari, Internet Explorer, Microsoft edge) and phone devices(Iphone) so that the user experience is seamless accross the different platforms.
     - I made sure that all the links are working and are linked to the right part of the website.
     - The website is responsive on tablets and phone devices.
     - I made sure that the website is well structured, readable and easy to follow.
 
 ### __Bugs__
-- Image wasnt loading on Github Pages after deployed 
+- Image wasnt loading on Github Pages after deployment due to wrong method of linking the image:
+
+    -   /assets/images/heroimage.JPG
+- Fix
+    -   ../images/heroimage.JPG
+
 
 ### __Validator Testing__
 - __HTML__
@@ -68,8 +75,9 @@ On the website the user will be able to find out about the business's history an
 - ## __Deployment__
     - The website was deployed on the Github Pages. Here are the steps I took:
         1. Go to the Github repository of choice, then click on settings.
-        2. Click the "Pages" from the list on the left.
-        3. 
+        2. Click the "Pages" tab from the list on the left.
+        3. In the "Branch" Section, click on the dropdown and select main
+        4. Hit save and the website will be deployed to the github pages.
 
 ## __Credits__
 
