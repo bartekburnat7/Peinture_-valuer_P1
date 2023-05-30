@@ -20,42 +20,41 @@ On the website, the user will be able to find out about the business's history a
 
 
 - __Navigation__
-    - The navigation bar at the top of the page has two sections: the title, which brings you to the top of the page when clicked, and the menu with buttons that you can use to jump to each section of the website.
-    - The navigation bar follows the user when they scroll, so it is easy to jump to each section from any part of the website.
-    - New users that have never used the website can use the navigation bar to easily find the section of interest without scrolling through the page.
-![Navigation Bar](/assets/images/navbar.PNG)
+    - The navigation bar at the top of the page has two sections: the title, which brings you to the top of the page when clicked, and the menu with buttons that you can use to jump to each section of the website.
+    - The navigation bar follows the user when they scroll, so it is easy to jump to each section from any part of the website.
+    - New users that have never used the website can use the navigation bar to easily find the section of interest without scrolling through the page.
+    ![Navigation Bar](/assets/images/navbar.PNG)
 
 
 - __Heading__
-    - The main hero area has a large image of a painting to signify that the website and company do indeed specialise in artwork and can catch the eye of new users looking for this specific service.
-    - The container on top of the image tells the user what the company specialises in; the box also contains a button that links to the contact section so that a new user can quickly skip to the contact section and quickly get in touch with the business, increasing the chances of closing a deal with a client.
+- The main hero area has a large image of a painting to signify that the website and company do indeed specialise in artwork and can catch the eye of new users looking for this specific service.
+- The container on top of the image tells the user what the company specialises in; the box also contains a button that links to the contact section so that a new user can quickly skip to the contact section and quickly get in touch with the business, increasing the chances of closing a deal with a client.
 ![Hero Image](/assets/images/READMEheroimage.JPG)
 
 
 - __About Us__
-    - The "About Us" section explains the business's history and what country and city they are based in. It informs the user about who runs the company and what qualities the company can bring to the client, which helps new users decide on which service to use.
-![About Us] (/assets/images/aboutus.PNG)
+    - The "About Us" section explains the business's history and what country and city they are based in. It informs the user about who runs the company and what qualities the company can bring to the client, which helps new users decide on which service to use.
+    ![About Us](/assets/images/aboutus.PNG)
 
 
 - __Pricing__
-    - The pricing section displays all the options that the company provides.
-    - Each option has a list of features that come with the given service and displays the greyed-out features that are not included in that option. This gives a user a choice if they would rather not go for the most expensive option.
-    - The business option has a purple gradient in the background to attract clients attention and make the top option stand out.
-![Pricing](/assets/images/pricing.JPG)
+    - The pricing section displays all the options that the company provides.
+    - Each option has a list of features that come with the given service and displays the greyed-out features that are not included in that option. This gives a user a choice if they would rather not go for the most expensive option.
+    - The business option has a purple gradient in the background to attract clients attention and make the top option stand out.
+    ![Pricing](/assets/images/pricing.JPG)
 
 
 - __Contact Us__
-    - The contact section is where the user can contact the company through the website to book a consultation or discuss
-    what service the client should opt for.
-    - The form validates if all fields are filled out or selected and checks if the right email format was used and all areas are filled in; otherwise, the form will inform the user what the error is and wont send the form.
-    - Each field, when selected, will be highlighted; this is implemented so that users can clearly see what input area they are currently typing into and makes the process easier.
-![Contact](/assets/images/contactus.JPG)
+    - The contact section is where the user can contact the company through the website to book a consultation or discuss what service the client should opt for.
+    - The form validates if all fields are filled out or selected and checks if the right email format was used and all areas are filled in; otherwise, the form will inform the user what the error is and wont send the form.
+    - Each field, when selected, will be highlighted; this is implemented so that users can clearly see what input area they are currently typing into and makes the process easier.
+    ![Contact](/assets/images/contactus.JPG)
 
 
 - __Footer__
-    - The footer contains "Quick Links" if the user decides they would like to go back to any section of the page they have passed. This makes finding any part of the website effortless and creates an enjoyable user experience.
-    - Extra contact information like a phone number or direct email address is also included, as some users may prefer to get in touch directly with the company staff instead of using the "Contact Us" section.
-![Footer](/assets/images/footer.PNG)
+    - The footer contains "Quick Links" if the user decides they would like to go back to any section of the page they have passed. This makes finding any part of the website effortless and creates an enjoyable user experience.
+    - Extra contact information like a phone number or direct email address is also included, as some users may prefer to get in touch directly with the company staff instead of using the "Contact Us" section.
+    ![Footer](/assets/images/footer.PNG)
 
 
 - ## __Testing__
